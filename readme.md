@@ -1,4 +1,4 @@
-# This is the image bed of my blog and demos
+# This is the image hosting of my blog and demos
 
 图片上传路径示例
 ```
